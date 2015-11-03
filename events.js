@@ -6,7 +6,7 @@ function clickEvent() {
 }
 
 /**
- * changes the background color when moused over
+ * changes the font type when moused over
  **/
 function mouseOver() {
 	document.getElementById("secondP").style.fontSize ="large";
