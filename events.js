@@ -1,5 +1,5 @@
 /**
- * changes background text on 1st par..
+ * changes the text on a click event
  **/
 function clickEvent() {
 	document.getElementById("click").innerHTML = "Thank you.";
