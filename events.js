@@ -9,7 +9,7 @@ function clickEvent() {
  * changes the background color when moused over
  **/
 function mouseOver() {
-	document.getElementById("mouse").style.backgroundColor = "red";
+	document.getElementById("secondP").style.fontSize ="large";
 }
 
 /**
