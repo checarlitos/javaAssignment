@@ -4,7 +4,7 @@
  * changes the background color when moused over
  **/
 function mouseOver() {
-	document.getElementById("firstp").style.backgroundColor = "red";
+	document.getElementById("firstP").style.backgroundColor = "red";
 }
 
 /**
