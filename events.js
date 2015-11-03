@@ -1,15 +1,10 @@
-/**
- * changes background text on 1st par..
- **/
-function mouseOver() {
-	document.getElementById("firstP").style.backgroundColor="red";
-}
+
 
 /**
  * changes the background color when moused over
  **/
 function mouseOver() {
-	document.getElementById("mouse").style.backgroundColor = "red";
+	document.getElementById("firstp").style.backgroundColor = "red";
 }
 
 /**
