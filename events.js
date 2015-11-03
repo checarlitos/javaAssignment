@@ -13,10 +13,16 @@ function mouseOver() {
 }
 
 /**
+ * changes the font type when moused over
+ **/
+function mouseOver() {
+	document.getElementById("thirdP").style.fontColor ="red";
+}
+/**
  * changes background color when moused out
  **/
 function mouseOut() {
-	document.getElementById("secondP").style.fontColor = "blue";
+	document.getElementById("thirdP").style.fontColor = "blue";
 }
 
 /**
