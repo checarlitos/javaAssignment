@@ -2,7 +2,7 @@
  * changes the text on a click event
  **/
 function clickEvent() {
-	document.getElementById("click").innerHTML = "What di you do???? where did my paragraph go?.";
+	document.getElementById("click").innerHTML = "What did you do!?!?!?!? where did the paragraph go?.";
 }
 
 /**
