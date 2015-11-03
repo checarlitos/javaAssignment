@@ -1,8 +1,8 @@
 /**
- * changes the text on a click event
+ * changes the text on a text that says "here"
  **/
 function clickEvent() {
-	document.getElementById("click").innerHTML = "What did you do!?!?!?!? where did the paragraph go?.";
+	document.getElementById("firstP").innerHTML = "What did you do!?!?!?!? where did the paragraph go?.";
 }
 
 /**
