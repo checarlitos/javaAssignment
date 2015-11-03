@@ -9,7 +9,7 @@ function clickEvent() {
  * changes the font type when moused over
  **/
 function mouseOver() {
-	document.getElementById("secondP").style.fontSize ="xxlarge";
+	document.getElementById("secondP").style.fontSize ="large";
 }
 
 /**
