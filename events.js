@@ -6,23 +6,23 @@ function clickEvent() {
 }
 
 /**
- * changes the font type when moused over
+ * changes the font size to large when moused over
  **/
 function mouseOver() {
 	document.getElementById("secondP").style.fontSize ="50px";
 }
 
 /**
- * changes the font type when moused over
+ * changes the font color when moused over
  **/
 function mouseOver() {
-	document.getElementById("thirdP").style.fontColor ="red";
+	document.getElementById("mouse").style.fontColor ="red";
 }
 /**
  * changes background color when moused out
  **/
 function mouseOut() {
-	document.getElementById("thirdP").style.fontColor = "blue";
+	document.getElementById("mouse").style.fontColor = "blue";
 }
 
 /**
